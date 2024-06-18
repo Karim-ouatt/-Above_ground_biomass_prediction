@@ -12,6 +12,7 @@ This approach consists of extracting, in addition to the mean values of the band
 
 ## Results
 Among the approaches we tested, the one with TSNE attracted our attention the most, with an RMSE of around 48 and a generalization much closer to reality. In fact, the TSNE approach was applied to the mean values of the bands and we obtained 5 optimal components to which we added vegetation indices calculated on the mean values of the bands. 
+
 Following evaluation of the TSNE model obtained, we produced the map below giving an overview of biomass distribution over the whole country (CI). From this map, we are able to identify certain zones, such as the Tai forest, the city of Abidjan and the Banco forest. These results are very encouraging. However, we can observe a large zone with high biomass values just above the Abidjan region, extending as far as the south-east of CI. From our point of view, this can be explained by the fact that this zone contains some stretches of forest and also represents a large agro-forestry zone of the country, i.e. palm, rubber and cocoa plantations, etc.
 
 ![Biomass_Map_new2](https://github.com/Karim-ouatt/Above_ground_biomass_prediction/assets/172601303/4a7ea12e-e63a-4bca-8d33-352c25b7ad94)
