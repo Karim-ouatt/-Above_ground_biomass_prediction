@@ -1,1 +1,4 @@
 # Above Ground Biomass Calculation Version 2
+This work follows the implementation of a biomass calculation model in specific areas (CI). This model estimates biomass over the entire extent of the CI using the mean values of satellite images (bands), namely Sentinel 2 via the Copernicus platform. In fact, given the high correlation between the mean values of the bands, a dimension reduction technique called Principal Component Analysis (PCA), with several vegetation indices, were used to train an AI model.
+
+The aim of our work is to test a number of approaches, such as another non-linear dimension reduction technique called t-distributed Stochastic Neighbor Embedding (TSNE) and the introduction of other statistics (min, max) in addition to the mean, to improve the performance of the pre-existing model, which is around 56. 
