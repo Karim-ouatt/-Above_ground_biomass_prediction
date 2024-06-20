@@ -2,7 +2,7 @@
 ## Description
 Aboveground biomass (AGB) is defined as the total mass of living plant material found above the soil surface in a particular area. This covers all components of the plant that grow above earth, such as stems, leaves, branches, flowers, and fruits. AGB is an important ecological and agricultural metric since it represents the amount of biological material produced by plants, which can be a good indicator of an ecosystem's health and production.
 
-Estimating aboveground biomass is critical for understanding and preventing climate change by carbon sequestration. Indeed, plants absorb carbon dioxide (CO₂) from the atmosphere through photosynthesis and store it in their tissues. AGB estimates are essential for calculating the amount of carbon stored in vegetation.
+Estimating aboveground biomass is essential for multiple reasons among which we can mention the understanding and preventing climate change by carbon sequestration. Indeed, plants absorb carbon dioxide (CO₂) from the atmosphere through photosynthesis and store it in their tissues. AGB estimates are essential for calculating the amount of carbon stored in vegetation.
 
 Advances in remote sensing technologies and the development of allometric equations have significantly improved the accuracy and efficiency of biomass estimation, enabling better global monitoring and management of earth's resources.
 
